@@ -1,0 +1,13 @@
+# Maven
+target/
+.m2/
+*.log
+
+# IntelliJ
+.idea/workspace.xml
+*.iml
+.idea/libraries/
+
+# OS
+.DS_Store
+Thumbs.db
